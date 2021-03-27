@@ -15,5 +15,5 @@ Consume datos de api OpenWeatherMap
 `expo start`
 
 ### `Visualizacion`
-![](assets/geoWeather1.png)
-![](assets/geoWeather2.png)
+![](./assets/geoWeather1.jpeg)
+![](./assets/geoWeather2.jpeg)
